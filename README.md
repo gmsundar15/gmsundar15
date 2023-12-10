@@ -3,7 +3,7 @@ My Name is Sundar Gurumurthy. I am a manufacturing engineer by profession. I am 
 
 # Current Projects
 ## Improved Inherent Strain Method for Wire Arc Additive Manufacturing
-Inherent Strain Method is a way to predict the distortion and stress distribution in manufactured parts using the strain field as an input. The core principle is taking advantage of the geometric compatibility of strains. If accurate strains are used as an input on the design geometry, the geometry would automatically equilibrate to state that is representative of actual distortion which would happen during a process. There are several challenges in applying this method to 3-D Printing/Additive Manufacturing. *Repository with scripts for automating FEM models in Abaqus coming soon!*.
+Inherent Strain Method is a way to predict the distortion and stress distribution in manufactured parts using the strain field as an input. The core principle is taking advantage of the geometric compatibility of strains. If accurate strains are used as an input on the design geometry, the geometry would automatically equilibrate to state that is representative of actual distortion which would happen during a process. There are several challenges in applying this method to 3-D Printing/Additive Manufacturing. **Repository with scripts for automating FEM models in Abaqus coming soon!**.
 
 # Past Coding Projects
 ## Bevel Gear flank design with theoretically ideal Spherical Involute profile:
@@ -13,7 +13,7 @@ I developed this project during my free time at work as a project to automate my
 
 ## M.D. Simulation of evaporation through Porous Media
 Simple project which simulates evaporation of water through micro-pores on a molocular level. The original idea was to expand on this simulation to include saline water so that a process to desalinate water can be developed. The simulation is done through scripting in LAMMPS with some code on MATLAB.
-~~[Repository](https://github.com/gmsundar15/Molecular-Dynamics-Simulation-of-Evaporation-through-Porous-media)~~
+[Repository](https://github.com/gmsundar15/Molecular-Dynamics-Simulation-of-Evaporation-through-Porous-media)
 
 # Future Plans
 I am not very good at programing user applications. But I am currently learning more and hope to contribute to some open source projects in the future. I have a really big goal of developing a open source fork of Android for use in E-readers. I hope to get there in about 2028, completely by learning and working on my free time. 
