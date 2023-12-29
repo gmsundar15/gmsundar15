@@ -1,5 +1,7 @@
 # About Me
-My Name is Sundar Gurumurthy. I am a manufacturing engineer by profession. I am interested in looking at projects related to multi physics simulations and am an avid Linux enthusiast. 
+My Name is Sundar Gurumurthy. I am a manufacturing engineer by profession. I am interested in looking at projects related to multi physics simulations and am an avid Linux enthusiast. \
+[E-mail](mailto:sundar.g@tutanota.com)\
+[PGP Key](https://github.com/gmsundar15/gmsundar15/blob/main/Sundar%20Gurumurthy_0xC4B13DEB_public.asc)
 
 # Current Projects
 ## Improved Inherent Strain Method for Wire Arc Additive Manufacturing
