@@ -4,6 +4,11 @@ My Name is Sundar Gurumurthy. I am a manufacturing engineer by profession. I am 
 [PGP Key](https://github.com/gmsundar15/gmsundar15/blob/main/Sundar%20Gurumurthy_0xC4B13DEB_public.asc)
 
 # Current Projects
+## Solid State Phase Tranformation in Additive Manufacturing
+I am developing an ABAQUS plugin in Python for developing transient FEM models of Additive Manufacturing incorporating SSPT using ABQ_MAT_Phase_Trans framework in ABAQUS. ABAQUS CAE does not have an official front end for ABQ_MAT_Phase_Trans so this would be beneficial to the community.
+
+The plugin is currently in closed development and will be made open source when complete.
+
 ## Improved Inherent Strain Method for Wire Arc Additive Manufacturing
 Inherent Strain Method is a way to predict the distortion and stress distribution in manufactured parts using the strain field as an input. The core principle is taking advantage of the geometric compatibility of strains. If accurate strains are used as an input on the design geometry, the geometry would automatically equilibrate to state that is representative of actual distortion which would happen during a process. There are several challenges in applying this method to 3-D Printing/Additive Manufacturing.\
 **Repository with scripts for automating FEM models in Abaqus coming soon!**.
@@ -18,8 +23,7 @@ I developed this project during my free time at work as a project to automate my
 Simple project which simulates evaporation of water through micro-pores on a molocular level. The original idea was to expand on this simulation to include saline water so that a process to desalinate water can be developed. The simulation is done through scripting in LAMMPS with some code on MATLAB.\
 [Repository](https://github.com/gmsundar15/Molecular-Dynamics-Simulation-of-Evaporation-through-Porous-media)
 
-# Future Plans
-I am not very good at programing user applications. But I am currently learning more and hope to contribute to some open source projects in the future. I have a really big goal of developing a open source fork of Android for use in E-readers. I hope to get there in about 2028, completely by learning and working on my free time. 
+
 
 
 <!--
