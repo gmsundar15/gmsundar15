@@ -1,6 +1,6 @@
 # About Me
 My Name is Sundar Gurumurthy. I am a manufacturing engineer by profession. Most of my projects are related to multi physics simulations of manufacturing processes and am an avid Linux enthusiast. \
-[E-mail](mailto:gmsundar15@gmail.com)\
+[E-mail](mailto:gmsundar15@gmail.com) 
 
 I am looking to grow my professional network. Feel free to reach out.
 
